@@ -5,7 +5,7 @@ As a career changer who transitioned from architecture to web development, I bri
 
 ---
 
-- 🔭 I’m currently working on [At What Cost](https://github.com/Vyonyx/at-what-cost-FE)
+- 🔭 I’m currently working on [Neighbourly](https://github.com/Vyonyx/neighbourly)
 
 - 🌱 I’m currently learning **VueJS and AWS Cloud Services**
 
